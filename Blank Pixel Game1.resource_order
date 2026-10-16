@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"test","order":3,"path":"objects/test/test.yy",},
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Script1","order":1,"path":"scripts/Script1/Script1.yy",},
+    {"name":"Script2","order":5,"path":"scripts/Script2/Script2.yy",},
+    {"name":"Sprite1","order":4,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
+}
